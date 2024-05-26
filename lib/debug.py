@@ -2,5 +2,5 @@
 
 from dog import Dog
 import ipdb
-
+ipdb> Dog("Fido", "Corgi")
 ipdb.set_trace()
